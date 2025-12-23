@@ -6,7 +6,7 @@
 	<properties>
 		<name>Feature: Sanity Tracker</name>
 		<version>1.13</version>
-		<author>bmos (Wil Thieme)</author>
+		<author>bmos (Ramona T)</author>
 		<description>This FantasyGrounds extension helps track sanity effects as described in Paizo's Horror Adventures rulebook.</description>
 		<loadorder>50</loadorder>
 		<ruleset>
